@@ -10,6 +10,7 @@ body {
     color: white;
     text-align: center;
     padding: 40px 20px;
+    background-image: url("portfolio/images/project.jpg");
 }
 
 .profile-pic {
@@ -95,5 +96,6 @@ button:hover, .btn:hover {
         gap: 10px;
     }
 }
+
 
 
