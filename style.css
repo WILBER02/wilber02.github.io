@@ -16,7 +16,7 @@ body {
     background: linear-gradient(
         rgba(0,0,0,0.6),
         rgba(0,0,0,0.6)
-    ), url("portfolio/images/pic.jpg") center/cover no-repeat;
+    ), url("portfolio/images/coding.jpg") center/cover no-repeat;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -148,5 +148,6 @@ footer {
         font-size: 2rem;
     }
 }
+
 
 
